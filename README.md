@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **rawoolprathamesh61@gmail.com**
 
-- 👨‍💻 All of my projects are available at [prathamesh61.github.io](prathamesh61.github.io)
-
 - ⚡ Fun fact **Listening Music ,Watching Anime**
 
 <h3 align="left">Connect with me:</h3>
