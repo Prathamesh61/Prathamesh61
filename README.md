@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **DSA**
 
-- 🌱 I’m currently learning **React **
+- 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **React Projeccts**
+- 👯 I’m looking to collaborate on **React Projects**
 
 - 📫 How to reach me **rawoolprathamesh61@gmail.com**
 
