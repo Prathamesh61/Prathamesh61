@@ -7,6 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamesh61&label=Profile%20views&color=0e75b6&style=flat" alt="prathamesh61" /> </p>
 <hr/>
+
 - 🔭 I’m currently working on **DSA**
 
 - 🌱 I’m currently learning **React**
@@ -47,8 +48,9 @@
    <a href="#"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/> </a> &nbsp;
 </p>
 
-  
-  <br/>
+<br/>
+<h3 align="left">Statistics :</h3>
+<hr/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamesh61&show_icons=true&locale=en&theme=tokyonight" alt="prathamesh61" /></p>
 
 
