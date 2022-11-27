@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/prathamesh-rawool411" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="prathamesh-rawool411" /></a>
 <a href="https://codesandbox.com/prathamesh61" target="blank"><img align="center" src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" alt="prathamesh61" /></a>
-<a href="https://www.hackerrank.com/@rawoolprathames1" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="@rawoolprathames1" /></a>
+<a href="https://www.hackerrank.com/rawoolprathames1?hr_r=1" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="@rawoolprathames1" /></a>
 </p>
 <br/>
 <h3 align="left">Languages and Tools:</h3>
