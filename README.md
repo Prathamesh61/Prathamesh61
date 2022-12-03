@@ -3,14 +3,11 @@
 <img align="center" src="https://readme-typing-svg.herokuapp.com?size=20&amp;lines=Hii!+I'm+Prathamesh+Rawool!;Full+Stack+web+Developer...👨🏻‍💻;A+Mern+Stack+Developer" style="width: 100%;">
 
 <h1 align="center">Hi 👋, I'm Prathamesh Rawool</h1>
+<br/>
 <h3 align="center">A passionate full stack web developer from India.
-An Inquisitive Full Stack Web Developer with knowledge of a wide
-
-range of programming utilities and languages. Has relevant hands-
-on experience in building websites from scratch. Seeking to leverage
-
-broad development experience and hands-on technical expertise.</h3>
-
+An Inquisitive Full Stack Web Developer with knowledge of a wide range of programming utilities and languages. Has relevant hands-
+on experience in building websites from scratch. Seeking to leverage broad development experience and hands-on technical expertise.</h3>
+<br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamesh61&label=Profile%20views&color=0e75b6&style=flat" alt="prathamesh61" /> </p>
 <hr/>
 
