@@ -1,7 +1,4 @@
-[![MasterHead](![05uhd2ihjs671](https://github.com/Prathamesh61/Prathamesh61/assets/50316091/1bd82104-cc96-4218-880a-b1081dda1223)
-
-
-)](https://prathamesh61.github.io)
+[![MasterHead](https://github.com/Prathamesh61/Prathamesh61/assets/50316091/1bd82104-cc96-4218-880a-b1081dda1223)](https://prathamesh61.github.io)
 
 <img align="center" src="https://readme-typing-svg.herokuapp.com?size=20&amp;lines=Hii!+I'm+Prathamesh+Rawool!;Full+Stack+web+Developer...👨🏻‍💻;A+Mern+Stack+Developer" style="width: 100%;">
 
