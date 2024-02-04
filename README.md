@@ -1,5 +1,4 @@
-[![MasterHead](
-![05uhd2ihjs671](https://github.com/Prathamesh61/Prathamesh61/assets/50316091/1bd82104-cc96-4218-880a-b1081dda1223)
+[![MasterHead](![05uhd2ihjs671](https://github.com/Prathamesh61/Prathamesh61/assets/50316091/1bd82104-cc96-4218-880a-b1081dda1223)
 
 
 )](https://prathamesh61.github.io)
